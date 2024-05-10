@@ -1,6 +1,6 @@
 # Linear-Regression---Flight-Price-Prediction
 ## Objective
-The objective of the study is to analyse the flight booking dataset obtained from “Ease My Trip” website and to conduct various statistical hypothesis tests in order to get meaningful information from it. 'Easemytrip' is an internet platform for booking flight tickets, and hence a platform that potential passengers use to buy tickets. A thorough study of the data will aid in the discovery of valuable insights that will be of enormous value to passengers. Various 'Linear Regression' statistical algorithm are used to train the dataset and evaluation scores are compared.The  models used are
+The objective of the study is to analyse the flight booking dataset obtained from “Ease My Trip” website and to conduct various statistical hypothesis tests in order to get meaningful information from it. 'Easemytrip' is an internet platform for booking flight tickets, and hence a platform that potential passengers use to buy tickets. A thorough study of the data will aid in the discovery of valuable insights that will be of enormous value to passengers. Different Regression algorithms are used to train the dataset and evaluation scores are compared.The  models used are
 1. KNeighborsRegressor
 2. Linear Regression
 3. XGBRegressor
